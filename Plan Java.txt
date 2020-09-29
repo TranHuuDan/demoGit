@@ -1,0 +1,25 @@
+Soft:
+-	Frontend: Giao dien, chuc nang 
+-	Framework: Nhan dien giong noi cua Google
+-	Backend: 
+		Option1: Firebase
+		Option2*: Server 
+		
+		
+Flow:
+Design: Figma -> Frontend 
+			  -> Backend
+			 
+Frontent -> API -> Backend (interface API) -> Database (Firebase) -> Device -> Database (Firebase) -> (interface API) Backend -> API -> Frontend
+
+1. API
+2. Design API (Figma)
+3. Frontend
+4. Backend 
+
+Công việc trong tuần này:
+-	Xác định được công việc mh sẽ làm. 
+-	Tìm hiểu về Java cơ bản 
+		- Tìm hiểu giống C++ học kì vừa rồi.
+		- *Nếu có thể làm lại các bài tập OOP.
+-	Tìm hiểu về command line (The Clean code.pdf). 
